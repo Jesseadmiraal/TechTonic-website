@@ -20,6 +20,10 @@
   cursor: grab;
 }
 
+#Logos {
+  background-color: #a5d8cc;
+}
+
 .lg-outer .lg-thumb-outer.lg-grabbing .lg-thumb-item {
   cursor: move;
   cursor: -webkit-grabbing;
